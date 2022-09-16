@@ -12,7 +12,7 @@ object user_input {
 
       var z = num1 + num2;
 
-      println(z);
+      println("the output value is " + z);
       println(z.getClass.getName);
 
     }
