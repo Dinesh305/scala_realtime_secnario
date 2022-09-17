@@ -8,10 +8,7 @@ object user_input {
       var num1 = x.toInt;
       println(num1.getClass.getName)
       var num2 = y.toInt;
-
-
       var z = num1 + num2;
-
       println("the output value is " + z);
       println(z.getClass.getName);
 
